@@ -1,0 +1,24 @@
+Flask==1.1.1
+Flask-SQLAlchemy==2.4.0
+gunicorn==19.9.0
+itsdangerous==1.1.0
+jinja2==2.11.2
+requests==2.22.0
+pandas==0.23.0
+pytest
+markupsafe==1.1.1 
+vaderSentiment
+-e git+https://github.com/pattern3/pattern.git#egg=pattern
+#nltk==3.3
+textstat
+future==0.16.0
+werkzeug==1.0.1
+decorator==4.2.1
+decorators==0.1.1
+numpy==1.14.5
+scipy==1.0.0
+click==7.1.2
+tensorflow==1.10.0
+#matplotlib==2.2.3
+Keras==2.2.2
+
